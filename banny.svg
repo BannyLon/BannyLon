@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" font-family="Consolas,Menlo,'Courier New',monospace" font-size="16px">
+<style>
+.a{fill:#79c0ff}.h{fill:#c9d1d9}.k{fill:#ffa657}.v{fill:#a5d6ff}.c{fill:#616e7f}.g{fill:#3fb950}
+</style>
+<rect width="900" height="460" rx="15" fill="#161b22"/>
+
+<text class="a" xml:space="preserve">
+<tspan x="20" y="118"> _   _   ____    ___   _____ </tspan>
+<tspan x="20" y="140">| \ | | |  _ \  |_ _| | ____|</tspan>
+<tspan x="20" y="162">|  \| | | |_) |  | |  |  _|  </tspan>
+<tspan x="20" y="184">| |\  | |  __/   | |  | |___ </tspan>
+<tspan x="20" y="206">|_| \_| |_|     |___| |_____|</tspan>
+</text>
+
+<text class="h" xml:space="preserve">
+<tspan x="330" y="30" text-decoration="underline">bannylon@github</tspan>
+<tspan x="330" y="52" class="c">——————————————————————————————————</tspan>
+<tspan x="330" y="74"><tspan class="k">OS</tspan>: <tspan class="v">macOS</tspan></tspan>
+<tspan x="330" y="96"><tspan class="k">Uptime</tspan>: <tspan class="v">第一代互联网原住民</tspan></tspan>
+<tspan x="330" y="118"><tspan class="k">Host</tspan>: <tspan class="v">嗯哌AI · agidt.com</tspan></tspan>
+<tspan x="330" y="140"><tspan class="k">Kernel</tspan>: <tspan class="v">AI 工作流搭建者</tspan></tspan>
+<tspan x="330" y="162"><tspan class="k">IDE</tspan>: <tspan class="v">Claude Code, DeepSeek Harness, Dify</tspan></tspan>
+<tspan x="330" y="184"><tspan class="k">Languages</tspan>: <tspan class="v">Python, JavaScript</tspan></tspan>
+<tspan x="330" y="206"><tspan class="k">Hobbies</tspan>: <tspan class="v">写作、发推</tspan></tspan>
+
+<tspan x="330" y="240" class="c">— Projects ———————————————————————</tspan>
+<tspan x="330" y="262"><tspan class="k">DifyAIA</tspan>: <tspan class="g">★2.7k</tspan>  <tspan class="v">Dify 工作流 DSL</tspan></tspan>
+<tspan x="330" y="284"><tspan class="k">Npie-Agent-Skills</tspan>: <tspan class="v">Claude Code / Agent Skills</tspan></tspan>
+<tspan x="330" y="306"><tspan class="k">NotebookLM 教程</tspan>: <tspan class="g">50万+</tspan> <tspan class="v">播放</tspan></tspan>
+
+<tspan x="330" y="340" class="c">— Contact ————————————————————————</tspan>
+<tspan x="330" y="362"><tspan class="k">X / YouTube</tspan>: <tspan class="v">@NpieAI</tspan></tspan>
+<tspan x="330" y="384"><tspan class="k">Mail</tspan>: <tspan class="v">bannylon7@gmail.com</tspan></tspan>
+<tspan x="330" y="406"><tspan class="k">Web</tspan>: <tspan class="v">www.agidt.com</tspan></tspan>
+<tspan x="330" y="428"><tspan class="k">Open to</tspan>: <tspan class="v">教育 / 旅游 / 青少年体育 × AI 合作</tspan></tspan>
+</text>
+</svg>
